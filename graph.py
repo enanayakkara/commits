@@ -2,7 +2,7 @@ import os
 from random import randint 
 
 for i in range(1, 2000):
-    for j in range(0, randint(1, 24)):
+    for j in range(0, randint(1, 18)):
 
         d = str(i) + ' days ago'
 
